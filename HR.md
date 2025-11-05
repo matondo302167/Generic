@@ -4,7 +4,7 @@ Here are common HR interview questions with concise answers based on your CV:
 "I'm a software engineer with a degree in Computer Science from University of Parma. I currently work at BIP as a Software Engineer, where I design and develop front-end interfaces and web applications for clients. Previously, I worked at Elfi Systems developing critical banking solutions for example BPER Banca, focusing on ATM management systems. I have strong experience in TypeScript, Angular, Java, and working in high-security banking environments."
 
 **2. Why are you interested in this position?**
-"I'm looking to leverage my banking sector experience gained Elfi Systems. I've worked on critical financial systems requiring high security and performance standards, and I'm eager to apply these skills to contribute to your team's success."
+“I am seeking new challenges and wish to expand on the experience I gained in the banking sector at Elfi Systems. I have worked on critical financial systems requiring high standards of security and performance, and I am eager to put these skills to work for your team to contribute to its success.”
 
 **3. What's your greatest strength?**
 "My ability to quickly adapt and solve complex problems. In banking projects at Elfi Systems and BIP, I've consistently delivered high-quality solutions while meeting strict security and compliance requirements."
